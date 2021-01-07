@@ -2,6 +2,9 @@
 Four Feature Card (First time using display grid) <br> <br>
 ![Capture](https://user-images.githubusercontent.com/28654108/103949634-8fbae580-5161-11eb-91b6-bfe3e6a8f44c.PNG)
 
+(iphone preview)
+<br> Video Link: 
+https://user-images.githubusercontent.com/28654108/103949982-1b347680-5162-11eb-8992-14fc10356a11.mp4
 # Frontend Mentor - Four card feature section
 
 ## Welcome! 👋
