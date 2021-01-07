@@ -1,9 +1,8 @@
 # Four-Feature-card
 Four Feature Card (First time using display grid) 
+![Capture](https://user-images.githubusercontent.com/28654108/103949634-8fbae580-5161-11eb-91b6-bfe3e6a8f44c.PNG)
 
 # Frontend Mentor - Four card feature section
-
-![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
